@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "brand": "Dell",
+    "model": "XPS 13",
+    "cpu": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "available": true,
+    "daily_price": 150,
+    "image_url": "https://example.com/images/xps13.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "HP",
+    "model": "Spectre x360",
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "available": true,
+    "daily_price": 120,
+    "image_url": "https://example.com/images/spectre.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Apple",
+    "model": "MacBook Air M1",
+    "cpu": "Apple M1",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "available": false,
+    "daily_price": 200,
+    "image_url": "https://example.com/images/macbook_air.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Lenovo",
+    "model": "ThinkPad X1 Carbon",
+    "cpu": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "1TB SSD",
+    "available": false,
+    "daily_price": 180,
+    "image_url": "https://example.com/images/thinkpad_x1.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Asus",
+    "model": "ZenBook 14",
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "512GB SSD",
+    "available": false,
+    "daily_price": 130,
+    "image_url": "https://example.com/images/zenbook_14.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Acer",
+    "model": "Aspire 5",
+    "cpu": "Intel Core i3",
+    "ram": "4GB",
+    "storage": "256GB SSD",
+    "available": false,
+    "daily_price": 90,
+    "image_url": "https://example.com/images/aspire_5.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Microsoft",
+    "model": "Surface Laptop 4",
+    "cpu": "Intel Core i7",
+    "ram": "16GB",
+    "storage": "512GB SSD",
+    "available": true,
+    "daily_price": 220,
+    "image_url": "https://example.com/images/surface_laptop_4.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Razer",
+    "model": "Blade 15",
+    "cpu": "Intel Core i9",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "available": true,
+    "daily_price": 250,
+    "image_url": "https://example.com/images/blade_15.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Legion",
+    "model": "Blade 15",
+    "cpu": "Intel Core i9",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "available": true,
+    "daily_price": 250,
+    "image_url": "https://example.com/images/blade_15_1.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Legion",
+    "model": "Blade 15",
+    "cpu": "Intel Core i9",
+    "ram": "32GB",
+    "storage": "1TB SSD",
+    "available": true,
+    "daily_price": 250,
+    "image_url": "https://example.com/images/blade_15_1.jpg"
+  }
+]
